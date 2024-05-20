@@ -1,0 +1,184 @@
+
+.header{
+
+    background-color: #6962AD;
+    border: #96E9C6;
+    padding: 35px;
+    position: sticky;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+}
+
+.maincontent {
+
+    background-color:#A367B1;
+    
+    display: block;
+    color: #FFD1E3;
+    text-align: top;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+
+}
+
+.m-card {
+
+    background-color:#A367B1;
+    
+    display: block;
+    color: #FFD1E3;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+
+}
+
+.sl-card {
+
+    background-color:#A367B1;
+    
+    display: block;
+    color: #FFD1E3;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: -500px;
+    float: left;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+
+}
+
+.sr-card {
+
+    background-color:#A367B1;
+    
+    display: block;
+    color: #FFD1E3;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+    float: right;
+    margin-top: -500px;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+
+}
+
+.temp_color1 {
+
+color: white;
+
+}
+
+.break {
+
+    
+    background-color: #6962AD;
+    border: #96E9C6;
+    padding: 25px;
+    position: sticky;
+    border: 2px;
+    border-color: #FFD1E3;
+    border-style: solid;
+    margin-top: 40px;
+
+}
+    
+.topnava {
+    float: left;
+    display: block;
+    color: #FFD1E3;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    transition: scale 0.2 ease;
+}
+
+.topnava:hover{
+
+scale: 1.05;
+color: #fff ;
+
+}
+
+.topnava:active{
+
+scale: 0.95;
+
+}
+
+.topnavb {
+    float: right;
+    display: block;
+    color: #FFD1E3;
+    text-align: top;
+    padding: 0px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    transition: scale 0.2 ease;
+}
+
+.topnavb:hover{
+
+    scale: 1.05;
+    color: #fff ;
+    
+}
+    
+.topnavb:active{
+    
+    scale: 0.95;
+    
+}
+
+.pic1{
+
+overflow: hidden;
+
+}
+
+.pic2 {
+    margin-top: -358px;
+    display: block;
+    opacity: 0;
+    transition: opacity 1.5s;
+    
+}
+
+.pic3{
+    opacity: 0;
+    margin-top: -358px;
+}
+
+  
+.pic2:hover {
+    opacity: 1; 
+    transition: opacity 1.5s;
+   
+}
+
+
+.pic3:hover{
+    opacity: 1;
+}
